@@ -5,12 +5,6 @@ Homebrew tap for [**menubar-usage**](https://github.com/miffycs/menubar-usage) â
 ## Install
 
 ```sh
-brew install --cask miffycs/menubar-usage/menubar-usage
-```
-
-Or tap first, then install:
-
-```sh
 brew tap miffycs/menubar-usage
 brew install --cask menubar-usage
 ```
