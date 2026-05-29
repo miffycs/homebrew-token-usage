@@ -6,7 +6,7 @@
 
 cask "menubar-usage" do
   version "0.1.0"
-  sha256 "4e95869d6b5b1e18e965cfa25442220f3ef95c5497999807d7aaaca066cc0bbb"
+  sha256 "ab56fc203a33f4499709285001fc93523ecef8abda823c446b0cb13f9e2d17bb"
 
   url "https://github.com/miffycs/menubar-usage/releases/download/v#{version}/menubar-usage.app.zip"
   name "Menubar Usage"
